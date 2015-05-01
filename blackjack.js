@@ -113,7 +113,9 @@ var dealer = {
 while(player.isMyTurn || dealer.isMyTurn){
 
 	if(player.isMyTurn){
-		var selection = readlineSync.keyInSelect(options, 'Hit or Stay?');
+		var selection = readlineSync.keyInSelect(options, 'Hit or Stay?', {
+  			cancel: false
+		});
 		if(options[selection] == 'Hit')
 			player.cards.push(generateCard());
 		else{
