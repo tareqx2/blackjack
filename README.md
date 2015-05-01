@@ -10,6 +10,5 @@ Player:4,2
 
 [1] Hit
 [2] Stay
-[0] CANCEL
 
-Hit or Stay? [1, 2, 0] :
+Hit or Stay? [1, 2] :
