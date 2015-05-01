@@ -1,0 +1,28 @@
+{
+  "name": "blackjack",
+  "version": "0.0.0",
+  "description": "play some blackjack via CLI while you're bored",
+  "main": "blackjack.js",
+  "dependencies": {
+    "colors": "^1.1.0",
+    "lodash": "^3.7.0",
+    "readline-sync": "^1.2.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tareqx2/blackjack.git"
+  },
+  "keywords": [
+    "blackjack"
+  ],
+  "author": "Tareq Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tareqx2/blackjack/issues"
+  },
+  "homepage": "https://github.com/tareqx2/blackjack"
+}
