@@ -1,5 +1,5 @@
 {
-  "name": "blackjack",
+  "name": "cli-blackjack",
   "version": "0.0.0",
   "description": "play some blackjack via CLI while you're bored",
   "main": "blackjack.js",
