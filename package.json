@@ -1,6 +1,6 @@
 {
   "name": "cli-blackjack",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "play some blackjack via CLI while you're bored",
   "main": "blackjack.js",
   "dependencies": {
@@ -25,4 +25,5 @@
     "url": "https://github.com/tareqx2/blackjack/issues"
   },
   "homepage": "https://github.com/tareqx2/blackjack"
+  "bin": "./blackjack.js"
 }
